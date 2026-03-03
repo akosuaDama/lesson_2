@@ -1,0 +1,11 @@
+.logo-and-nav{
+    display: flex;
+}
+.logo{
+    width: 100px;
+    height: 50px;
+}
+.image2{
+    width: 100px;
+    height: 50px;
+}

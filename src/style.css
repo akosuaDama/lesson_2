@@ -9,3 +9,31 @@
     width: 100px;
     height: 50px;
 }
+/* typography */
+h1{
+    font-family:fantasy;
+    font-size: 20px;
+}
+.p1{
+    font-weight: 300;
+    font-size: 30px;
+    text-shadow: 3px 3px 1px rgb(137, 4, 31);
+    /* word spacing */
+    word-spacing: 3px;
+    line-height: 50px;
+    text-align: justify;
+    color: cadetblue;
+    background-color: rgb(20, 3, 3);
+}
+#paragraph{
+    opacity: 0.8;
+    background-color: white;
+}
+/* using the chaining method */
+header .hero-div{
+    background-image: url('../images/practice\ picture1.jpg')
+}
+/* .hero-div */
+.categories div img{
+    background-color: aqua;
+}

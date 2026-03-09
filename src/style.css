@@ -37,3 +37,35 @@ header .hero-div{
 .categories div img{
     background-color: aqua;
 }
+h1{
+    font-style:normal;
+}
+.hero-div-2{
+    background-image: url('../images/whitewoman\ in\ bonnet.jpg');
+    width: 80%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 5px dotted blue;
+}
+.bonnet{
+    padding: 40px 40px 40px ;
+    border: 2px solid grey;
+    border-radius: 3px;
+}
+.bonnet-section{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+.categories{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px;
+}
+.categories div{
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
